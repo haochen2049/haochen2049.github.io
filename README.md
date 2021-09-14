@@ -1,15 +1,17 @@
-## Haochen wuv Kristen
+# Haochen wuv Kristen
 
-You can use the [editor on GitHub](https://github.com/haochen2049/haochen2049.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Haochen's homepage, where his love of his fiancee Kristen is written.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+
+I graduated from University of Edinburgh with a BEng honour degree in Electrical and Electronics Engineering and an MSc degree in Applicable Mathematics from London School of Economics. Currently I am a PhD student at Finance hub, School of Informatics, King's College London.
 
 ### Research Interests:
 ```markdown
 
-# Market Microstructure
-## AI on trading finance
-### Econophysics
+- Market Microstructure
+- AI on trading finance
+- Econophysics
 
 
 ```
@@ -23,11 +25,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- B
+- L
 
-1. Numbered
-2. List
+1. 
+2. 
 
 **Bold** and _Italic_ and `Code` text
 
@@ -42,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Feel free to contact me: haochen_li@kcl.ac.uk
+Feel free to contact me! haochen_li@kcl.ac.uk
