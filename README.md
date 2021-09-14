@@ -1,6 +1,6 @@
 # Haochen wuv Kristen
 
-Welcome to Haochen's homepage, where his love of his fiancee Kristen is written.
+Welcome to Haochen's homepage, where his love commited to his fiancee Kristen is recorded and witnessed.
 
 ## About me
 
