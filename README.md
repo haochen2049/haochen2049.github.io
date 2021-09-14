@@ -30,17 +30,10 @@ Feel free to contact me! haochen_li@kcl.ac.uk
 
 ### Papers:
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- B
-- L
-
-1. 
-2. 
+1. Header 1
+2. Header 2
+3. Header 3
 
 **Bold** and _Italic_ and `Code` text
 
