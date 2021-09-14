@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 
 # Market Microstructure
-## Machine learning applied on trading finance
+## AI on trading finance
 ### Econophysics
 
 
