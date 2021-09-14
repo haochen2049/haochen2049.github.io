@@ -6,7 +6,7 @@ Welcome to Haochen's homepage, where his love commited to his fiancee Kristen is
 
 I graduated from University of Edinburgh with a BEng honour degree in Electrical and Electronics Engineering and an MSc degree in Applicable Mathematics from London School of Economics. Currently I am a PhD student at Finance hub, School of Informatics, King's College London.
 
-### Research Interests:
+### Research Interests
 ```markdown
 
 - Market Microstructure
@@ -21,8 +21,6 @@ I graduated from University of Edinburgh with a BEng honour degree in Electrical
 ### Publications and Conferences
 
 ### Work Experience
-
-
 
 ### Support or Contact
 
