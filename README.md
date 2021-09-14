@@ -44,6 +44,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src![一期一会](https://user-images.githubusercontent.com/71441849/133269935-76ec022f-c633-4377-b494-c97d5adef592.jpg)
-)
+[Link](url) and [Image](src）
 ```
+
+![一期一会](https://user-images.githubusercontent.com/71441849/133270256-cd72121f-c5bd-4311-99bf-85b0223a74de.jpg)
+
+
