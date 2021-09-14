@@ -17,7 +17,20 @@ I graduated from University of Edinburgh with a BEng honour degree in Electrical
 ```
 
 
-### Publications:
+
+### Publications and Conferences
+
+### Work Experience
+
+
+
+### Support or Contact
+
+Feel free to contact me! haochen_li@kcl.ac.uk
+
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Papers:
 ```markdown
 Syntax highlighted code block
 
@@ -35,13 +48,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haochen2049/haochen2049.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Feel free to contact me! haochen_li@kcl.ac.uk
