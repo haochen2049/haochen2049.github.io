@@ -5,7 +5,6 @@ You can use the [editor on GitHub](https://github.com/haochen2049/haochen2049.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Research Interests:
-
 ```markdown
 Syntax highlighted code block
 
@@ -25,8 +24,7 @@ Syntax highlighted code block
 ```
 
 
-Publications:
-
+###Publications:
 ```markdown
 Syntax highlighted code block
 
