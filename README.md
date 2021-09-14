@@ -24,7 +24,7 @@ I graduated from University of Edinburgh with a BEng honour degree in Electrical
 
 ### Support or Contact
 
-Feel free to contact me! haochen_li@kcl.ac.uk
+Feel free to contact me! _**haochen_li@kcl.ac.uk**_
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
