@@ -1,10 +1,10 @@
-# Haochen wuv Kristen
+# Haochen Li
 
-Welcome to Haochen's homepage, where his love commited to his fiancee Kristen is recorded and witnessed.
+Welcome to Haochen's homepage.
 
 ## About me
 
-I graduated from University of Edinburgh with a BEng honour degree in Electrical and Electronics Engineering and an MSc degree in Applicable Mathematics from London School of Economics. Currently I am a PhD student at Finance hub, School of Informatics, King's College London.
+I graduated from University of Edinburgh with a BEng honour degree in Electrical and Electronics Engineering. And I studied MSc in Applicable Mathematics at London School of Economics. I used to work as trader, trading derivatives futures of commodities, fixed-income and short-term interest rates. Currently I am a PhD student in Computer Science at King's College London.
 
 ### Research Interests
 ```markdown
